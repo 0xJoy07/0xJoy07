@@ -13,7 +13,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://github.com/0xJoy07">
-    <img src="https://img.shields.io/badge/GitHub-Joy--S--07-181717?style=plastic&logo=github&logoColor=white&logoSize=20" height="28"/>
+    <img src="https://img.shields.io/badge/GitHub-0xJoy07-181717?style=plastic&logo=github&logoColor=white&logoSize=20" height="28"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/beinggojo">
