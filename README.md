@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://github.com/Joy-S-07">
+  <a href="https://github.com/0xJoy07">
     <img src="https://img.shields.io/badge/GitHub-Joy--S--07-181717?style=plastic&logo=github&logoColor=white&logoSize=20" height="28"/>
   </a>
   &nbsp;
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Joy-S-07&style=plastic&color=7C3AED&label=PROFILE+VIEWS&abbreviated=true" height="24"/>
+<img src="https://komarev.com/ghpvc/?username=0xJoy07&style=plastic&color=7C3AED&label=PROFILE+VIEWS&abbreviated=true" height="24"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 ```yaml
 name: Joy
-username: Joy-S-07
+username: 0xJoy07
 location: 🌏 India
 portfolio: gojodev.vercel.app
 email: joysengupta521@gmail.com
@@ -123,12 +123,12 @@ contact: linkedin.com/in/beinggojo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joy-S-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Joy-S-07&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xJoy07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xJoy07&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-S-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xJoy07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
 
 </div>
 
@@ -138,7 +138,7 @@ contact: linkedin.com/in/beinggojo
 ### 🌊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joy-S-07&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=302b63&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xJoy07&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&area_color=302b63&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -147,7 +147,7 @@ contact: linkedin.com/in/beinggojo
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joy-S-07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xJoy07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="95%"/>
 </div>
 
 ---
@@ -157,7 +157,7 @@ contact: linkedin.com/in/beinggojo
 
 <div align="center">
 
-<a href="https://github.com/Joy-S-07">
+<a href="https://github.com/0xJoy07">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white&logoSize=20" height="30"/>
 </a>
 &nbsp;
