@@ -28,7 +28,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/beinggojo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beinggojo)
-[![Portfolio](https://img.shields.io/badge/gojodev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gojodev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0x-joy07.cervel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joysengupta521@gmail.com)
 
 </div>
@@ -118,7 +118,7 @@ I call my style **vibe coding** — move quick, iterate hard, keep the energy hi
 {
   "github"    : "https://github.com/0xJoy07",
   "linkedin"  : "https://linkedin.com/in/beinggojo",
-  "portfolio" : "https://gojodev.vercel.app",
+  "portfolio" : "https://0x-joy.vercel.app",
   "email"     : "joysengupta521@gmail.com",
   "status"    : "open to collabs & interesting problems 🟢"
 }
@@ -130,6 +130,6 @@ I call my style **vibe coding** — move quick, iterate hard, keep the energy hi
 
 <img src="https://komarev.com/ghpvc/?username=0xJoy07&style=flat-square&color=6C63FF&label=visitors" />
 
-*crafted with good vibes · [gojodev.vercel.app](https://gojodev.vercel.app)*
+*crafted with good vibes · [Joy](https://0x-joy07.vercel.app)*
 
 </div>
