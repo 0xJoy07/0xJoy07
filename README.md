@@ -28,7 +28,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/beinggojo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beinggojo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0x-joy07.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://0x-joy.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joysengupta521@gmail.com)
 
 </div>
@@ -130,6 +130,6 @@ I call my style **vibe coding** — move quick, iterate hard, keep the energy hi
 
 <img src="https://komarev.com/ghpvc/?username=0xJoy07&style=flat-square&color=6C63FF&label=visitors" />
 
-*crafted with good vibes · [Joy](https://0x-joy07.vercel.app)*
+*crafted with good vibes · [Joy](https://0x-joy.vercel.app)*
 
 </div>
