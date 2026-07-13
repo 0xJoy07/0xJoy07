@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Vibe+Coder%20|%20Machine+Learning+Explorer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+vibing%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%20Machine+Learning+Explorer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+vibing%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -40,8 +40,6 @@
 Hey — I'm **Joy** (`0xJoy07`), a full-stack web developer from India 🇮🇳
 
 I build with **MERN + Next.js**, ship fast with AI-assisted workflows, and I'm currently diving deep into **ML/AI** — from agentic pipelines to multimodal systems.
-
-I call my style **vibe coding** — move quick, iterate hard, keep the energy high.
 
 > *"Build it. Break it. Ship it anyway."*
 
