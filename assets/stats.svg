@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="330" viewBox="0 0 580 330" role="img" aria-labelledby="title desc">
+<title id="title">0xJoy07 / stats</title><desc id="desc">20 public repositories, 4 followers, 2 stars across owned public repositories including forks.</desc>
+<rect x="1" y="1" width="578" height="328" rx="16" fill="#f6faff" stroke="#d6e6fc" stroke-width="2"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<circle cx="27" cy="29" r="5" fill="#ff5f57"/><circle cx="45" cy="29" r="5" fill="#ffbd2e"/><circle cx="63" cy="29" r="5" fill="#28c840"/>
+<text x="86" y="35" fill="#2e5e9e" font-size="18" font-weight="700">0xJoy07 / stats</text>
+<path d="M1 55H579" stroke="#d6e6fc"/>
+<text x="28" y="101" fill="#6e819a" font-size="13" letter-spacing="1">PUBLIC REPOSITORIES</text><text x="548" y="108" fill="#397acb" font-size="34" font-weight="700" text-anchor="end">20</text><text x="28" y="177" fill="#6e819a" font-size="13" letter-spacing="1">FOLLOWERS</text><text x="548" y="184" fill="#397acb" font-size="34" font-weight="700" text-anchor="end">4</text><text x="28" y="253" fill="#6e819a" font-size="13" letter-spacing="1">REPOSITORY STARS</text><text x="548" y="260" fill="#397acb" font-size="34" font-weight="700" text-anchor="end">2</text>
+<text x="26" y="312" fill="#6e819a" font-size="13" >Public GitHub data · updated 2026-11-09 UTC</text>
+</g></svg>
