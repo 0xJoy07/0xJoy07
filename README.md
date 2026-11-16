@@ -28,10 +28,6 @@
   <img src="assets/languages.svg" alt="Primary languages across Joy's non-fork public repositories" width="49%">
 </p>
 
-## lately
-
-<a href="https://github.com/0xJoy07?tab=overview"><img src="assets/activity.svg" alt="Joy's recent public GitHub activity" width="100%"></a>
-
 ## say hi
 
 <p align="center">
